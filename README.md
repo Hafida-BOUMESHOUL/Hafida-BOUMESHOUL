@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hi there 👋 I'm Hafida BOUMESHOUL
+## I'm software engineering student 
+About Me :
 
-<!--
-**Hafida-BOUMESHOUL/Hafida-BOUMESHOUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying computer science at ENSAO.
+- 🌱 I’m currently learning ASP.NET & REACT JS & ANGULAR frameworks.
+- 👯 I’m looking to collaborate on new Projects
+- 🤔 I’m looking for help with a summer Internship in ASP.NET.
+- 📫 How to reach me: 
+            Email : hafida.boumeshoul2@gmail.com
+            LinkedIn : https://www.linkedin.com/in/hafida-boumeshoul-7b85271b5/
